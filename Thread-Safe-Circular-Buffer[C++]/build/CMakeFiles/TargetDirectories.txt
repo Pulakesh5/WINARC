@@ -1,0 +1,3 @@
+/Users/pulakesh/WINARC/Thread-Safe-Circular-Buffer[C++]/build/CMakeFiles/circular_buffer.dir
+/Users/pulakesh/WINARC/Thread-Safe-Circular-Buffer[C++]/build/CMakeFiles/edit_cache.dir
+/Users/pulakesh/WINARC/Thread-Safe-Circular-Buffer[C++]/build/CMakeFiles/rebuild_cache.dir
